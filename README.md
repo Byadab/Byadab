@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me binay3344@gmail.com
-- Git pages: https://byadab.github.io/portfolio/
+- portfolio: https://byadab.github.io/portfolio/
 
 <!---
 Byadab/Byadab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
